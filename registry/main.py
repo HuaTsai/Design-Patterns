@@ -1,4 +1,4 @@
-from arithmetic import ARITHMETIC
+from registry.arithmetic import ARITHMETIC
 
 if __name__ == "__main__":
     print(ARITHMETIC)

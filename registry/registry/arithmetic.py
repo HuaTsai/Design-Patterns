@@ -1,4 +1,4 @@
-from registry import Registry
+from registry.registry import Registry
 
 ARITHMETIC = Registry("arithmetic")
 
